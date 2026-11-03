@@ -1,0 +1,20 @@
+{
+  "name": "PHANTOM CORE",
+  "short_name": "Phantom",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#9d00ff",
+  "icons": [
+    {
+      "src": "anime.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "anime.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
